@@ -66,6 +66,3 @@ def main():
     
     # በሰርቨር ላይ ያለ ችግር እንዲሮጥ
     application.run_polling(close_loop=False)
-
-if __name__ == '__main__':
-    main()
